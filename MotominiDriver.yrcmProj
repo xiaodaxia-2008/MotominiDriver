@@ -22,7 +22,7 @@
     <FileForProject>StateServer.c</FileForProject>
     <FileForProject>StateServer.h</FileForProject>
   </FilesInProject>
-  <LastFileOpened>Controller.c</LastFileOpened>
+  <LastFileOpened>MotoROS.h</LastFileOpened>
   <UsrInit>False</UsrInit>
   <ProjectType>Executable</ProjectType>
   <Debug>
